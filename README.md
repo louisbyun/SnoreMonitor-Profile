@@ -1,4 +1,4 @@
-# SnoreMonitor Profile - Specification
+# SnoreMonitor Profile - Bluetooth Low Energy Specification
 
 ## 1. Introduction
 
